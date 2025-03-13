@@ -1,0 +1,34 @@
+h1{
+    text-align: left;
+}
+
+
+.info{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+}
+body{
+    background-color: antiquewhite;
+}
+
+button{
+    background-color:azure ;
+}
+table{
+    font-family: arial, sans-serif;
+  border-collapse:collapse;
+  border: solid black;
+  background-color: white;
+
+}
+td,th {
+    border-color:black;
+}
+
+#data{
+    position: absolute;
+    display: flex;
+    left: 80%;
+    top: 32px;
+}
